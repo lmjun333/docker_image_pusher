@@ -5,3 +5,4 @@ docker.getcollate.io/openmetadata/server:1.4.1
 mpromonet/webrtc-streamer
 mpromonet/webrtc-streamer:v0.8.6
 kurento/kurento-media-server
+ubuntu:22.04
