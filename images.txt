@@ -7,3 +7,4 @@ mpromonet/webrtc-streamer:v0.8.6
 kurento/kurento-media-server
 ubuntu:22.04
 zlmediakit/zlmediakit:master
+jenkins/jenkins
